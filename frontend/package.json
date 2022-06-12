@@ -1,0 +1,13 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "description": "Frontend for Full Stack Template.",
+  "main": "index.js",
+  "repository": "https://github.com/wangjoshuah/fullstack_app_template",
+  "author": "Josh Wang <hello@wangjoshuah.com>",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "react": "^18.1.0"
+  }
+}
