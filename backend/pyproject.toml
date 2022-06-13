@@ -8,6 +8,9 @@ authors = ["Josh Wang <hello@wangjoshuah.com>"]
 python = "^3.10"
 Flask-SQLAlchemy = "^2.5.1"
 Flask-Migrate = "^3.1.0"
+Flask-Compress = "^1.12"
+Flask-Cors = "^3.0.10"
+flask-smorest = "^0.38.0"
 
 [tool.poetry.dev-dependencies]
 black = "^22.3.0"
